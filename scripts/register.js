@@ -14,7 +14,7 @@ let petSalon = {
             gender:"Male",
             breed:"English Bulldog",
             service:"grooming ultra",
-            ownder:"Saydee G.",
+            owner:"Saydee G.",
             contactPhone:"555-555-5555"
         },
         {
@@ -23,7 +23,7 @@ let petSalon = {
             gender:"Male",
             breed:"Bichon Frise",
             service:"shampoo and haircut",
-            ownder:"Michele B.",
+            owner:"Michele B.",
             contactPhone:"555-444-5555"
         },
         {
@@ -32,7 +32,7 @@ let petSalon = {
             gender:"Male",
             breed:"French Bulldog",
             service:"pedicure",
-            ownder:"Emil N.",
+            owner:"Emil N.",
             contactPhone:"555-333-5555"
         }
     ]
