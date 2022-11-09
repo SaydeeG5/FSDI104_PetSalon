@@ -18,35 +18,31 @@ body {
     background-image: url(img/zeus.png);
     background-size: cover;
     background-repeat: no-repeat;
-    background-position: 50% 50%;
-    height: 530px;
-    text-align: center;
 }
 
 .fashion-pet { 
     display: flex;
     flex-direction: column;
     text-align: center;
-    margin-left: 750px;
+    margin-left: 600px;
     color: #3C4048;
-    width: 45%;
 }
 
 h1 {
-    padding-top: 175px;
+    padding-top: 150px;
     font-family: Norican;
-    font-size: 135px;
+    font-size: 100px;
 }
 
 p { 
     font-family: Pacifico;
-    font-size: 40px;
+    font-size: 35px;
 }
 
 ul { 
     margin-top: 25px;
     display: flex;
-    column-gap: 80px;
+    column-gap: 50px;
     font-size: 25px;
 }
 
